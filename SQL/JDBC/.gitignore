@@ -1,1 +1,10 @@
-
+.azuredatastudio
+.DS_Store
+.gradle/
+.idea/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+gradle/
+out/
